@@ -1,6 +1,6 @@
 # Terms of Service for HeartTap
 
-**Last Updated: October 12, 2025**
+**Last Updated: October 25, 2025**
 
 ---
 
@@ -134,7 +134,73 @@ All messages you send through HeartTap must:
 
 ---
 
-## 7. Content Ownership and License
+## 7. Reporting and Blocking
+
+### Content Moderation
+
+We actively monitor and filter inappropriate content using automated systems. Messages containing hate speech, threats, or harassment are automatically blocked from being sent. Our content filter uses pattern matching and keyword detection to identify and prevent harmful content before it reaches recipients.
+
+### Reporting Inappropriate Content
+
+You can report messages that violate our Terms of Service by long-pressing on any message in your Love History and selecting "Report Message." When you submit a report, we collect:
+
+- The content of the message being reported
+- The reason for the report (Harassment/Threats, Hate Speech, Sexual Harassment, or Other)
+- Any additional details you choose to provide
+- Your user ID and the reported user's ID
+- Timestamp of the report
+
+All reports are reviewed by our moderation team within 24 hours of submission. We take all reports seriously and will take appropriate action based on the severity of the violation, which may include:
+
+- Dismissing the report (if no violation is found)
+- Sending a warning to the reported user
+- Temporarily suspending the user's account
+- Permanently banning the user from HeartTap
+
+### Blocking Users
+
+You have the right to block your partner at any time through the Profile section of the App. When you block a user:
+
+- Your partner connection will be immediately removed
+- They will not be able to reconnect with you in the future
+- You will not be able to reconnect with them
+- All future pairing attempts between you will be prevented
+- They will not be notified that you have blocked them
+
+**To block your partner:** Go to your Profile → Tap "Block Partner" → Confirm the action
+
+**Important:** Blocking is a permanent safety measure and cannot be easily undone through the app. If you block someone by mistake, you can contact us at clark@hearttap.info for assistance, though we may not be able to reverse blocks in all cases for safety reasons.
+
+### Moderation Response Time Commitment
+
+We are committed to reviewing all reported content within 24 hours of submission. During our review process, we will:
+
+1. Examine the reported content and context
+2. Determine if the content violates our Terms of Service
+3. Take appropriate action based on the severity of the violation
+4. Document the outcome for our records
+
+### Appeal Process
+
+If your account is suspended or banned due to a report, you may appeal the decision by contacting us at clark@hearttap.info with:
+
+- Your username and email address
+- The reason you believe the action was taken in error
+- Any relevant context or information
+
+We will review all appeals within 7 business days and respond with our decision.
+
+### False Reports
+
+Submitting false or malicious reports is a violation of these Terms of Service. Users who repeatedly submit false reports may have their accounts suspended or terminated.
+
+### Law Enforcement Cooperation
+
+If we receive a report of illegal activity or content that poses an imminent threat to safety, we may report it to law enforcement authorities and cooperate fully with any investigation.
+
+---
+
+## 8. Content Ownership and License
 
 ### Your Content
 You retain all ownership rights to the messages and content you send through HeartTap ("Your Content"). By using HeartTap, you grant us a limited license to store, transmit, and display Your Content solely for the purpose of providing the App's functionality.
@@ -147,7 +213,7 @@ Messages sent to you by your partner are stored in our systems to provide the Ap
 
 ---
 
-## 8. Termination
+## 9. Termination
 
 ### Your Right to Terminate
 You may terminate your account at any time by using the "Delete Account" feature in the App. Account deletion is immediate and permanent. All your data will be deleted as described in our Privacy Policy.
@@ -168,7 +234,7 @@ Upon termination:
 
 ---
 
-## 9. Disclaimers and Warranties
+## 10. Disclaimers and Warranties
 
 ### "AS IS" Service
 HEARTTAP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
@@ -201,7 +267,7 @@ You use HeartTap at your own risk. We are not responsible for any consequences a
 
 ---
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 **CRITICAL - PLEASE READ CAREFULLY:**
 
@@ -241,7 +307,7 @@ Some jurisdictions do not allow the exclusion or limitation of certain warrantie
 
 ---
 
-## 11. Indemnification
+## 12. Indemnification
 
 You agree to indemnify, defend, and hold harmless HeartTap, its developer, and any associated parties from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from:
 
@@ -256,7 +322,7 @@ This indemnification obligation will survive termination of your account and the
 
 ---
 
-## 12. Privacy and Data Protection
+## 13. Privacy and Data Protection
 
 Your use of HeartTap is also governed by our [Privacy Policy](https://clarkmcdo.github.io/hearttap-privacy), which explains:
 - What information we collect
@@ -269,7 +335,7 @@ By using HeartTap, you consent to the collection and use of information as descr
 
 ---
 
-## 13. Intellectual Property
+## 14. Intellectual Property
 
 ### Our Rights
 HeartTap, including its design, features, text, graphics, logos, icons, images, and software, is owned by the developer and is protected by copyright, trademark, and other intellectual property laws.
@@ -287,13 +353,13 @@ You may not:
 
 ---
 
-## 14. Feedback and Suggestions
+## 15. Feedback and Suggestions
 
 If you provide us with feedback, suggestions, or ideas about HeartTap, you grant us a perpetual, irrevocable, worldwide, royalty-free license to use, modify, and incorporate such feedback without any obligation to you.
 
 ---
 
-## 15. Changes to These Terms
+## 16. Changes to These Terms
 
 ### Right to Modify
 We reserve the right to modify these Terms at any time. When we make changes, we will:
@@ -309,7 +375,7 @@ We encourage you to review these Terms periodically to stay informed of any upda
 
 ---
 
-## 16. Governing Law and Dispute Resolution
+## 17. Governing Law and Dispute Resolution
 
 ### Governing Law
 These Terms shall be governed by and construed in accordance with the laws of the United States and the State of Georgia, without regard to its conflict of law provisions.
@@ -325,31 +391,31 @@ You agree to resolve disputes with us on an individual basis. You may not bring 
 
 ---
 
-## 17. Severability
+## 18. Severability
 
 If any provision of these Terms is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable.
 
 ---
 
-## 18. Entire Agreement
+## 19. Entire Agreement
 
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and HeartTap regarding your use of the App and supersede any prior agreements, communications, or understandings.
 
 ---
 
-## 19. No Waiver
+## 20. No Waiver
 
 Our failure to enforce any provision of these Terms shall not be deemed a waiver of that provision or any other provision. Any waiver must be in writing and signed by us.
 
 ---
 
-## 20. Assignment
+## 21. Assignment
 
 You may not assign or transfer these Terms or your rights under these Terms without our prior written consent. We may assign these Terms to any successor or affiliate without restriction.
 
 ---
 
-## 21. Force Majeure
+## 22. Force Majeure
 
 We shall not be liable for any failure or delay in performing our obligations under these Terms due to circumstances beyond our reasonable control, including but not limited to:
 - Natural disasters
@@ -361,7 +427,7 @@ We shall not be liable for any failure or delay in performing our obligations un
 
 ---
 
-## 22. Relationship Between Users
+## 23. Relationship Between Users
 
 ### No Liability for Relationships
 HeartTap is a tool for communication between couples. We are not responsible for:
@@ -387,7 +453,7 @@ You are solely responsible for:
 
 ---
 
-## 23. Apple App Store Terms
+## 24. Apple App Store Terms
 
 ### Acknowledgement
 You acknowledge that these Terms are concluded between you and HeartTap only, and not with Apple Inc. ("Apple"). HeartTap, not Apple, is solely responsible for the App and its content.
@@ -412,7 +478,7 @@ Apple and Apple's subsidiaries are third-party beneficiaries of these Terms. Upo
 
 ---
 
-## 24. Contact Us
+## 25. Contact Us
 
 If you have any questions, concerns, or requests regarding these Terms of Service, please contact us:
 
@@ -424,7 +490,7 @@ For legal notices or formal communications, please email us at the address above
 
 ---
 
-## 25. Acknowledgement and Consent
+## 26. Acknowledgement and Consent
 
 **BY CLICKING "I AGREE," BY CREATING AN ACCOUNT, OR BY USING HEARTTAP, YOU ACKNOWLEDGE THAT:**
 
